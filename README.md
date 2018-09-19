@@ -1,1 +1,1 @@
-# DCGAN-_CIFAR-
+# DCGAN_CIFAR
